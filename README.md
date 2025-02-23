@@ -25,3 +25,9 @@ The task also involves making predictions with the trained model using new input
 This notebook serves as a guide for building a predictive model, from data exploration and feature selection to model training and evaluation. It showcases the entire pipeline of predictive analysis, emphasizing the importance of selecting the right features and evaluating model performance thoroughly. This approach not only enhances the model's accuracy but also ensures its reliability in making predictions. By leveraging machine learning techniques, this task demonstrates how predictive analysis can be used to extract valuable insights and forecast future outcomes, proving its significance in data science and business intelligence.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/3a103c3e-efaa-45ff-aa2f-3a1f7ba1d08f)
+![Image](https://github.com/user-attachments/assets/74de5c77-4698-4064-9454-0cbc22f6053d)
+![Image](https://github.com/user-attachments/assets/592ea93b-ea6f-4ca9-a99e-ac62b7a2b6e7)
+![Image](https://github.com/user-attachments/assets/915bd13e-c248-4ff7-8fe1-aab1524390d8)
+![Image](https://github.com/user-attachments/assets/cd7a5954-9f27-48de-9e2f-433394b17158)
