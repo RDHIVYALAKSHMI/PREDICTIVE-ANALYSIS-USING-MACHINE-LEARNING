@@ -27,7 +27,11 @@ This notebook serves as a guide for building a predictive model, from data explo
 #OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/3a103c3e-efaa-45ff-aa2f-3a1f7ba1d08f)
+
 ![Image](https://github.com/user-attachments/assets/74de5c77-4698-4064-9454-0cbc22f6053d)
+
 ![Image](https://github.com/user-attachments/assets/592ea93b-ea6f-4ca9-a99e-ac62b7a2b6e7)
+
 ![Image](https://github.com/user-attachments/assets/915bd13e-c248-4ff7-8fe1-aab1524390d8)
+
 ![Image](https://github.com/user-attachments/assets/cd7a5954-9f27-48de-9e2f-433394b17158)
